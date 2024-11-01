@@ -3,7 +3,7 @@ Welcome to the Optiplex 3020 Hackintosh setup! This repository contains an optim
 
 PC Specs:
 
-CPU: Intel Core i7-4790 (iGPU)
+CPU: Intel Core i7-4790 Hasswell (iGPU)
 
 RAM: 8GB
 
