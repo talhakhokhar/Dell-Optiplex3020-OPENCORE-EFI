@@ -3,7 +3,7 @@ Welcome to the Optiplex 3020 Hackintosh setup! This repository contains an optim
 
 PC Specs:
 
-CPU: Intel Core i7-4790 Hasswell (iGPU)
+CPU: Intel Core i7-4790 Hasswell (iGPU=Intel HD 4600 2gb)
 
 RAM: 8GB
 
@@ -23,4 +23,5 @@ Community Support: For USB maps and solving WiFi or Bluetooth issues, check out 
 
 Recommendations:
 
-OC Auxiliary Tools: Use these for editing and updating kexts and OpenCore versions to keep your Hackintosh running smoothly.
+1)OC Auxiliary Tools: Use these for editing and updating kexts and OpenCore versions to keep your Hackintosh running smoothly.
+2)Oficial Guide>>> https://dortania.github.io/OpenCore-Install-Guide/config.plist/haswell.html#acpi
