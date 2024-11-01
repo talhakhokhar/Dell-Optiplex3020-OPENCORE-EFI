@@ -19,7 +19,7 @@ Perfect Sound: Achieved using alcid=17 for Realtek ALC3220. Enjoy crystal-clear 
 
 Seamless Integration: Using OpenCore for a robust and reliable macOS experience on your Optiplex 3020.
 
-Community Support: For USB maps and solving WiFi or Bluetooth issues, check out this guy's repository.
+Community Support: For USB maps and solving WiFi or Bluetooth issues, check out this guy's repository (https://github.com/varszegimarcell/Optiplex-3020-Hackintosh-OpenCore).
 
 Recommendations:
 
